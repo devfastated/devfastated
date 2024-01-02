@@ -25,10 +25,8 @@ Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devfastated&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?devfastated&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aizen) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aizen) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aizen) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aizen) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
