@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently working on my Back-End Skills.<br>    🌱 I’m currently learning Laravel and Server Side Rendering.<br>    💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>    🤝 Looking forward to collaborate with other projects.<br>    🤔 I’m looking for help with other Web Frameworks and Tools.<br>    🎯 Current Goal: Create, Build and Deploy projects<br>    ⚡ Fun fact: My Personality Type is Kiss.<br>    📫 How to reach me: businessmailromer@gmail.com<br>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/qwertyuiopasdfggjklzxcvvbnnmal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Romer Jasen Jimenez) 
@@ -24,8 +24,6 @@ Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-![](https://komarev.com/ghpvc/?devfastated&label=PROFILE+VIEWS&style=flat-square&color=lightgrey)
 
 
   
