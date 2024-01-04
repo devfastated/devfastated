@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>
-⚒ I’m currently working on my Back-End Skills.<br>
-🌱 I’m currently learning Laravel and Server Side Rendering.<br>
+⚒ I’m currently working on my Back-End Skills.<br>m
+🌱 I’m currently learning Laravel and Server Side Rendering.<br>m
 💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>
 🤝 Looking forward to collaborate with other projects.<br>
 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
@@ -10,9 +10,9 @@ Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>
 📫 How to reach me: businessmailromer@gmail.com<br>
 
 <br>
-<div style="float: right; margin: 10px;">
-  <a href="https://app.daily.dev/linuzen">
-    <img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=iwx" width="150" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" alt="Romer Jasen Jimenez's Dev Card"/>
+<div style="float: right; margin: 10px;m">
+  <a href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=iwx" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
+    
   </a>
 </div>
 
