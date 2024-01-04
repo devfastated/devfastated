@@ -1,5 +1,9 @@
 # 💫 About Me:
 Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently working on my Back-End Skills.<br>    🌱 I’m currently learning Laravel and Server Side Rendering.<br>    💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>    🤝 Looking forward to collaborate with other projects.<br>    🤔 I’m looking for help with other Web Frameworks and Tools.<br>    🎯 Current Goal: Create, Build and Deploy projects<br>    ⚡ Fun fact: My Personality Type is Kiss.<br>    📫 How to reach me: businessmailromer@gmail.com<br>
+
+<br>
+<a href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=iwx" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
+<br>
 ![](https://komarev.com/ghpvc/?devfastated&base=12)
 
 ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
