@@ -11,8 +11,7 @@ Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently
 
 <br>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
-
+https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/qwertyuiopasdfggjklzxcvvbnnmal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romer-jasen-jimenez-596924276/) 
 
