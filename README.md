@@ -2,8 +2,9 @@
 Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently working on my Back-End Skills.<br>    🌱 I’m currently learning Laravel and Server Side Rendering.<br>    💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>    🤝 Looking forward to collaborate with other projects.<br>    🤔 I’m looking for help with other Web Frameworks and Tools.<br>    🎯 Current Goal: Create, Build and Deploy projects<br>    ⚡ Fun fact: My Personality Type is Kiss.<br>    📫 How to reach me: businessmailromer@gmail.com<br>
 ### Now Playing — Spotify 🎧
 <p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&redirect=true)">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"](https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)/>
+
 </a>
 </p>
 <br>
