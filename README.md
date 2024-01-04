@@ -9,12 +9,6 @@ Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>
 ⚡ Fun fact: My Personality Type is Kiss.<br>
 📫 How to reach me: businessmailromer@gmail.com<br>
 
-<br>
-<div style="float: right; margin: 10px; position: absolute;">
-  <a href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=iwx" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
-    
-  </a>
-</div>
 
 ![](https://komarev.com/ghpvc/?devfastated&base=12)m
 
