@@ -2,7 +2,7 @@ l # 💫 About Me:
 Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently working on my Back-End Skills.<br>    🌱 I’m currently learning Laravel and Server Side Rendering.<br>    💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>    🤝 Looking forward to collaborate with other projects.<br>    🤔 I’m looking for help with other Web Frameworks and Tools.<br>l    🎯 Current Goal: Create, Build and Deploy projects<br>    ⚡ Fun fact: My stack is KISS - Keep. It. Super. Simple.<br>    📫 How to reach me: businessmailromer@gmail.com<br>
 
 ### Now Playing — Spotify 🎧
-<p style=" float: right; ">
+<p style=" float: right; width: 100px; height: 200px; ">
 <a href="https://slpotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
 </a>
