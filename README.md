@@ -2,19 +2,7 @@
  <h1>Hi there 👋, I'm Romer Jasen Jimenez | aka Linuzen <3 </h1>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Information+Technology+Student;Self-taught+developer;Laravel+%7C+PHP+Developer" alt="Typing SVG" /></a>
-
-<div style="float: left; position:"abosulte" ">  
-⚒ I’m currently working on my Front-End Skills. <br>
-🌱 I’m currently learning Next JS and Server Side Rendering.<br>
-💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>
-🤝 Looking forward to collaborate with other projects.<br>
-🤔 I’m looking for help with other Web Frameworks and Tools.<br>
-🎯 Current Goal: Create, Build and Deploy projects<br>
-⚡ Fun fact: My Personality Type is INFJ.<br>
- 📫 How to reach me: carlos_tabangay@outlook.com<br>
-<br>
- </div>
-
+<div align="right" style="position: absolute; margin: 0; top: -200px; z-index: 999;"></div>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
