@@ -1,4 +1,4 @@
-<div style="text-align: justify;">
+<div style="position: absolute;>
 Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently working on my Back-End Skills.<br>    🌱 I’m currently learning Laravel and Server Side Rendering.<br>    💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>    🤝 Looking forward to collaborate with other projects.<br>    🤔 I’m looking for help with other Web Frameworks and Tools.<br>l    🎯 Current Goal: Create, Build and Deploy projects<br>    ⚡ Fun fact: My stack is KISS - Keep. It. Super. Simple.<br>    📫 How to reach me: businessmailromer@gmail.com<br>
 </div> 
 ### Now Playing — Spotify 🎧
