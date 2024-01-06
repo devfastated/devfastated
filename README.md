@@ -1,3 +1,14 @@
+<div>
+ <h1>Hi there 👋, I'm Romer Jasen Jimenez | aka Linuzen <3 </h1>
+</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Information+Technology+Student;Self-taught+developer;Laravel+%7C+PHP+Developer" alt="Typing SVG" /></a>
+
+<div>
+ <hr>
+</div>
+
+
+
 
 ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
 <div align="right" style="position: absolute; margin: 0; top: -200px; z-index: 999;"> 
