@@ -17,9 +17,9 @@
 
 ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
 
-<div> 
-<a href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
-</div>
+
+<a width="10px" height="50px" href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
+
 
 <br>
 
