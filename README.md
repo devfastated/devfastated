@@ -9,7 +9,7 @@ Hi👋, I'm Romer Jasen Jimenez | aka Linuzen ☕<br><br>    ⚒ I’m currently
 </p>
 
 ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
-<div align="right" margin="0px" top="-200px" position="absolute"> 
+<div align="right" style="position: absolute; margin: 0; top: -200px;"> 
 <a href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
 </div>
 
