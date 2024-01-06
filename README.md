@@ -3,14 +3,14 @@
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Information+Technology+Student;Self-taught+developer;Laravel+%7C+PHP+Developer" alt="Typing SVG" /></a>
   
-• ⚒ I’m currently working on my Front-End Skills. <br>
-• 🌱 I’m currently learning Next JS and Server Side Rendering. <br>
-• 💬 Ask me about React, HTML, CSS, JavaScript/TypeScript.<br>
+• ⚒ I’m currently working on my Back-End Skills. <br>
+• 🌱 I’m currently learning Laravel and Server Side Rendering. <br>
+• 💬 Ask me about Laravel, HTML, CSS, Javascript | PHP<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
 • 🎯 Current Goal: Create, Build and Deploy projects<br>
-• ⚡ Fun fact: My Personality Type is INFJ.<br>
-• 📫 How to reach me: carlos_tabangay@outlook.com<br>
+• ⚡ Fun fact: My Personality Type is KISS.<br>
+• 📫 How to reach me: businessmailromer@gmail.com<br>
 
 </div>
 <br>
