@@ -6,7 +6,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F75579&random=false&width=435&lines=BS+Information+Technology+Student.;Laravel+%7C+Self-taught+Developer.;PHP+%7C+Node+JS+%7C+Blades." alt="Typing SVG" /></a>
  </h1>
 </div>
-
+<br>
+  
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313kgk44qkj7cet4amepc32jkpey&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
   
 • ⚒ I’m currently working on my Back-End Skills. <br>
 • 🌱 I’m currently learning Laravel and Server Side Rendering. <br>
