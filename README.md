@@ -3,7 +3,7 @@
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=03F767&random=false&width=435&lines=Information+Technology+student.;React+%7C+Self-taught+Developer+;Node+js+%7C+Typescript" alt="Typing SVG" /></a>
   
-• ⚒ I’m currently working on Front-End Skills. <br>
+• ⚒ I’m currently working on my Front-End Skills. <br>
 • 🌱 I’m currently learning React and Server Side Rendering. <br>
 • 💬 Ask me about React, HTML, CSS, Javascript | Typescript<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
