@@ -1,11 +1,11 @@
 <div>
  <h1>Hi there 👋, I'm Romer Jasen Jimenez | aka Linuzen <3 </h1>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&vCenter=true&random=false&width=435&lines=Information+Technology+Student;Self-taught+developer;Laravel+%7C+PHP+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=03F767&random=false&width=435&lines=Information+Technology+student.;React+%7C+Self-taught+Developer+;Node+js+%7C+Typescript" alt="Typing SVG" /></a>
   
-• ⚒ I’m currently working on my Back-End Skills. <br>
-• 🌱 I’m currently learning Laravel and Server Side Rendering. <br>
-• 💬 Ask me about Laravel, HTML, CSS, Javascript | PHP<br>
+• ⚒ I’m currently working on Front-End Skills <br>
+• 🌱 I’m currently learning React and Server Side Rendering. <br>
+• 💬 Ask me about React, HTML, CSS, Javascript | Typescript<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
 • 🎯 Current Goal: Create, Build and Deploy projects<br>
