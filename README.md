@@ -12,7 +12,7 @@
   
 • ⚒ I’m currently working on my Back-End Skills. <br>
 • 🌱 I’m currently learning Laravel and Server Side Rendering. <br>
-• 💬 Ask me about HTML, CSS, Javascript | PHP<br>
+• 💬 Ask me about HTML, CSS | PHP<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
 • 🎯 Current Goal: Create, Build and Deploy projects<br>
