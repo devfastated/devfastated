@@ -1,5 +1,5 @@
 <div>
- <h1>Hi there 👋, I'm Romer Jasen Jimenez | aka Linuzen <3 </h1>
+ <h1>Hi there 👋, I'm Romer Jasen Jimenez | aka Linuzen started coding at 20 <3 </h1>
 </div>
 <div>
  <h1>
