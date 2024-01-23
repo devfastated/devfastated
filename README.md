@@ -10,7 +10,7 @@
   
 
   
-• ⚒ I’m currently working on my Back-End Skills. <br>
+• ⚒ I’m currently working on my Full Stack Skills. <br>
 • 🌱 I’m currently learning Laravel and Server Side Rendering. <br>
 • 💬 Ask me about HTML, CSS | PHP<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
