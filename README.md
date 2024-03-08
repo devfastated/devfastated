@@ -1,5 +1,5 @@
 <div>
- <h1>Hi there 👋, I'm Romer Jasen Jimenez aka Linuzen Grinde1r</h1>
+ <h1>Hi there 👋, I'm Romer Jasen Jimenez Full Stack Developer</h1>
  
 </div>
 <div>
