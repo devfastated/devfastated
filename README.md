@@ -4,7 +4,7 @@
 </div>
 <div>
  <h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F75579&random=false&width=435&lines=BS+Information+Technology+Student.;Laravel+%7C+Self-taught+Developer.;PHP+%7C+Node+JS+%7C+Blades." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F75579&random=false&width=435&lines=BS+Information+Technology+Student.;Laravel+%7C+Self-taught+Developer.;PHP+%7C+Livewire+%7C+Laravel." alt="Typing SVG" /></a>
  </h1>
 </div>
 <br>
@@ -12,7 +12,7 @@
 
   
 • ⚒ I’m currently working on  E-pass Slip Recording System. <br>
-• 🌱 I’m currently learning Laravel, PHP, Livewire. <br>
+• 🌱 I’m currently learning Laravel, PHP and Livewire. <br>
 • 💬 Ask me about Laravel<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
