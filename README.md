@@ -1,5 +1,5 @@
 <div>
- <h1>Hi there 👋, I'm Romer Jasen Jimenez Aspiring To Become a Full Stack Developer</h1>
+ <h1>Hi there 👋, I'm Romer Jasen Jimenez Aspiring To Become a Back-End Developer</h1>
  
 </div>
 <div>
@@ -11,9 +11,9 @@
   
 
   
-• ⚒ I’m currently working on  Full Stack Skills. <br>
-• 🌱 I’m currently learning HTML, CSS, and Javascript. <br>
-• 💬 Ask me about HTML, CSS, Javascript<br>
+• ⚒ I’m currently working on  E-pass Slip Recording System. <br>
+• 🌱 I’m currently learning Laravel, PHP, Livewire. <br>
+• 💬 Ask me about Laravel<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
 • 🎯 Current Goal: Create, Build and Deploy projects<br>
