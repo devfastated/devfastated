@@ -1,5 +1,5 @@
 <div>
- <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez </h1>
+ <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez, I love creating website using PHP Back-end and Livewire Front-End</h1>
  
 </div>
 <div>
@@ -41,7 +41,9 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p>Laravel</p>
+<p>PHP</p>
+<p>Livewire</p>
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devfastated&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
