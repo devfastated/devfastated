@@ -1,12 +1,12 @@
 <div>
  <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez</h1>
- 
+    ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
 </div>
 <div>
  <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=3CF700&random=false&width=435&lines=BSIT+Student;Learning+Vanilla+Javascript%2C;Svelte+and+Sveltekit%2C;And+Github" alt="Typing SVG" /></a>
  </h1>
-   ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
+
 </div>
 <br>
 
