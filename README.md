@@ -55,14 +55,12 @@
 <br/>  
 
 
-
-<div style="
-  position: abosulte;
-  float: right;
-  top: -100px;
- ">
+<div align="center">  
 <a width="10px" height="50px" href="https://app.daily.dev/linuzen"><img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="400" alt="Romer Jasen Jimenez's Dev Card"/></a>
-<div/>
+
+
+</div>
+
 
 <br>
 
@@ -70,12 +68,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devfastated&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
-<p>Laravel</p>
-<p>PHP</p>
-<p>Livewire</p>
- 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devfastated&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devfastated&theme=tokyonight&hide_border=false)<br/>
