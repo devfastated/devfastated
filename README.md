@@ -10,19 +10,18 @@
 </div>
 <br>
 
-</div>
-<div style="position: relative; text-align: right; margin-top: 20px;">
-    <div style="position: absolute; top: 0; right: 0; background-color: #f0f0f0; border-radius: 10px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px;">
-        <div align="right">
+
+
+<div style="position: abosolute; text-align: right; margin-top: 20px;">
+    <div style="position: absolute; top: 0; right: 0; background-color: #f0f0f0; border-radius: 50px; padding: 50px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 500px;">
+        <div align="center">
             <a href="https://app.daily.dev/linuzen">
                 <img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="180" alt="Romer Jasen Jimenez's Dev Card"/>
             </a>
         </div>
     </div>
-</div>
-
-<br>
-## My Skill Set  
+    <div style="position: relative; top: 0; right: 220px; width: calc(100% - 230px); text-align: center;">
+        ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,10 +63,6 @@
 
 <br/>  
 
-
-
-<br>
-
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devfastated&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -86,3 +81,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
