@@ -11,6 +11,16 @@
 <br>
 
 </div>
+<div style="text-align: right; margin-top: 20px;">
+    <div style="display: inline-block; background-color: #f0f0f0; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+        <div align="right">
+            <a href="https://app.daily.dev/linuzen">
+                <img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="400" alt="Romer Jasen Jimenez's Dev Card"/>
+            </a>
+        </div>
+    </div>
+</div>
+
 <br>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -54,15 +64,6 @@
 
 <br/>  
 
-<div style="text-align: right; margin-top: 20px;">
-    <div style="display: inline-block; background-color: #f0f0f0; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-        <div align="right">
-            <a href="https://app.daily.dev/linuzen">
-                <img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="400" alt="Romer Jasen Jimenez's Dev Card"/>
-            </a>
-        </div>
-    </div>
-</div>
 
 
 <br>
