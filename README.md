@@ -1,5 +1,5 @@
 <div>
- <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez, I love creating website using PHP Back-end and Livewire Front-End</h1>
+ <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez</h1>
  
 </div>
 <div>
@@ -12,7 +12,7 @@
 
   
 • ⚒ I’m currently working on  E-pass Slip Recording System. <br>
-• 🌱 I’m currently learning PHP and Livewire <br>
+• 🌱 I’m currently learning HTML, Css, Sveltekit and Javascript<br>
 • 💬 Ask me about Laravel<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
