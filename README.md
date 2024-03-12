@@ -7,18 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=3CF700&random=false&width=435&lines=BSIT+Student;Learning+Vanilla+Javascript%2C;Svelte+and+Sveltekit%2C;And+Github" alt="Typing SVG" /></a>
  </h1>
 </div>
-<br>Self
-  
-
-  
-• ⚒ I’m currently working on  E-pass Slip Recording System. <br>
-• 🌱 I’m currently learning HTML, Css, Sveltekit and Javascript<br>
-• 💬 Ask me about Laravel<br>
-• 🤝 Looking forward to collaborate with other projects.<br>
-• 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
-• 🎯 Current Goal: Create, Build and Deploy projects<br>
-• ⚡ Fun fact: My Personality Type is KISS.<br>
-• 📫 How to reach me: businessmailromer@gmail.com<br>
+<br>
 
 </div>
 <br>
