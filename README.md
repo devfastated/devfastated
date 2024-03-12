@@ -12,7 +12,7 @@
 
   
 • ⚒ I’m currently working on  E-pass Slip Recording System. <br>
-• 🌱 I’m currently learning Sveltekit <br>
+• 🌱 I’m currently learning PHP and Livewire <br>
 • 💬 Ask me about Laravel<br>
 • 🤝 Looking forward to collaborate with other projects.<br>
 • 🤔 I’m looking for help with other Web Frameworks and Tools.<br>
