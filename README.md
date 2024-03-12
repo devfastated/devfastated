@@ -11,8 +11,8 @@
 <br>
 
 </div>
-<div style="text-align: right; margin-top: 20px;">
-    <div style="display: inline-block; background-color: #f0f0f0; border-radius: 10px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px;">
+<div style="position: relative; text-align: right; margin-top: 20px;">
+    <div style="position: absolute; top: 0; right: 0; background-color: #f0f0f0; border-radius: 10px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 200px;">
         <div align="right">
             <a href="https://app.daily.dev/linuzen">
                 <img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="180" alt="Romer Jasen Jimenez's Dev Card"/>
