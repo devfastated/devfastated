@@ -1,7 +1,9 @@
 <div>
  <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez</h1>
+ 
 
 </div>
+
 <div>
  <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=3CF700&random=false&width=435&lines=BSIT+Student;Learning+Vanilla+Javascript%2C;Svelte+and+Sveltekit%2C;And+Github" alt="Typing SVG" /></a>
@@ -10,6 +12,7 @@
 </div>
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devfastated&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div style="position: abosolute; text-align: right; margin-top: 20px;">
@@ -21,12 +24,12 @@
         </div>
     </div>
     <div style="position: relative; top: 0; right: 220px; width: calc(100% - 230px); text-align: center;">
-        ## My Skill Set  
+        <b> My Skill Set </b>  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+# Frontend  
 <div align="center" position="absolute">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -39,7 +42,7 @@
 
 
 
-### Backend  
+# Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -50,8 +53,7 @@
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
+# DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -65,21 +67,16 @@
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devfastated&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devfastated&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devfastated&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devfastated&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devfastated&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
