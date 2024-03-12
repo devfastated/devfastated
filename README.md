@@ -1,6 +1,6 @@
 <div>
  <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez</h1>
-    ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
+
 </div>
 <div>
  <h1>
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-
+    ![](https://komarev.com/ghpvc/?username=devfastated&base=1690)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
