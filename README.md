@@ -1,5 +1,5 @@
 <div>
- <h1>Hi there 👋 <br> I'm Romer Jasen Jimenez [00-00-00] </h1>
+ <h1>Hi there 👋 I just wanted to say that there is always a room for improvement just trust your process.<br> I'm Romer Jasen Jimenez [00-00-00] </h1>
  
 
 </div>
