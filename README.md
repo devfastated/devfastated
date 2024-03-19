@@ -1,26 +1,5 @@
 
 
-<div>
- <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=3CF700&random=false&width=435&lines=BSIT+Student;Learning+Vanilla+Javascript%2C;Svelte+and+Sveltekit%2C;And+Github" alt="Typing SVG" /></a>
- </h1>
-
-</div>
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devfastated&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<div style="position: abosolute; text-align: right; margin-top: 20px;">
-    <div style="position: absolute; top: 0; right: 0; background-color: #f0f0f0; border-radius: 50px; padding: 50px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); width: 500px;">
-        <div align="center">
-            <a href="https://app.daily.dev/linuzen">
-                <img src="https://api.daily.dev/devcards/04520767960c4dd7ade4a7d91d98bec1.png?r=fyt" width="180" alt="Romer Jasen Jimenez's Dev Card"/>
-            </a>
-        </div>
-    </div>
-    <div style="position: relative; top: 0; right: 220px; width: calc(100% - 230px); text-align: center;">
-        <b> My Skill Set </b>  
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,22 +36,5 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devfastated&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devfastated&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devfastated&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
