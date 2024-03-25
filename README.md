@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&random=false&width=435&lines=Aspiring+Full+Stack+Web+Developer.;Tailwind+CSS;Alphine+JS;Livewire;Laravel;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg)
+
+TECH STACK
 # Frontend  
 <div align="center" position="absolute">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
