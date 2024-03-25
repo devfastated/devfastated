@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&random=false&width=435&lines=Aspiring+Full+Stack+Web+Developer.;Tailwind+CSS;Alphine+JS;Livewire;Laravel;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg)
+<h1> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=1000&random=false&width=435&lines=Aspiring+Full+Stack+Web+Developer.;Tailwind+CSS;Alphine+JS;Livewire;Laravel;Glib+jocks+quiz+nymph+to+vex+dwarf)](https://git.io/typing-svg) </h1>
 
 TECH STACK
 # Frontend  
